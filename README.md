@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ContactSuite.git
+git clone https://github.com/amir3141/ContactSuite.git
 ```
 
 Go to the project folder:
